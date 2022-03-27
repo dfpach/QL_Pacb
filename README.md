@@ -9,7 +9,9 @@ State s={E[Npt],CVnpt, Dnpt, Pacb}
 Action a={1,..16}: define the value of Pacb
 
 
-The other files are used to generate the results of the paper. The original LTE simulator with access control was implemented by Luis Tello https://github.com/lptelloq/LTE-A_RACHprocedure 
+The other files are used to generate the results of the paper. 
+
+The original LTE simulator with access control was implemented by Luis Tello https://github.com/lptelloq/LTE-A_RACHprocedure 
 
 My contribution is an implementation of Q-Learning to adapt Pacb using the LTE RACH simulator. 
 
